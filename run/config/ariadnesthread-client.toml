@@ -1,0 +1,22 @@
+
+#general settings
+[client]
+	#color of thread: rgb_g
+	#Range: 0 ~ 255
+	rgb_g = 0
+	#color of thread: rgb_r
+	#Range: 0 ~ 255
+	rgb_r = 128
+	#color of thread: rgb_b
+	#Range: 0 ~ 255
+	rgb_b = 128
+	#color of thread: alpha
+	#Range: 0 ~ 100
+	alpha = 50
+	#the density of way point
+	#Range: 0 ~ 255
+	way_point_density = 2
+	#render distance of way point
+	#Range: 0 ~ 255
+	display_radius = 16
+
